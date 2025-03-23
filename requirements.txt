@@ -1,0 +1,9 @@
+fastapi
+streamlit
+uvicorn 
+wikipedia-api 
+requests 
+python-dotenv 
+google-generativeai
+wikipedia
+langchain-community
